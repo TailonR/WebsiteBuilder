@@ -1,3 +1,3 @@
 # WebsiteBuilder
-Created by Tailon Russel & Matt Perry
+Created by Tailon Russell & Matt Perry
 
